@@ -1,16 +1,16 @@
-OSUMS[Open Source University Management System]
+U-M-S
 ==========================================
 
 # Description
-  Easy & hassle free Open Source University Management System Web Application
+  U-M-S web application. Plug and Play
 
 # Installation and use
-### OSUMS is build using Laravel 5.2
+### U-M-S is built using Laravel 5.2
 ```
-$ git clone https://github.com/hrshadhin/osums.git
+$ git clone https://github.com/qlint/u-m-s-1.git
 ```
 ```
-$ cd osums
+$ cd u-m-s-1
 ```
 ```
 $ mv .env.example .env
@@ -35,11 +35,6 @@ $ php artisan serve
 USER: admin
 PASS: demo123
 
-# Demo Live Link
-URL: http://osums.hrshadhin.me
-USER: admin
-PASS: demo123
-
 
 # Screenshot
 <img src="screenshots/1.png">
@@ -61,6 +56,4 @@ PASS: demo123
 
 
 # License
-OSUMS is open-sourced software licensed under the AGPL-3.0 license. Frameworks and libraries has it own licensed
-
-Enjoy :)
+U-M-S is open-sourced software licensed under the AGPL-3.0 license. Frameworks and libraries has it own licensed
